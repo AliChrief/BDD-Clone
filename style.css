@@ -69,19 +69,39 @@
   }
 
   .BDD-foundatinos{
-    margin:30vh 0;
+    margin:10vh 0;
+  }
+  .title-1{
+    text-align:center;
+    color:black;
+    font-weight:bold;
+    font-size:30px;
+
   }
   .card-container{
     display:flex;
     justify-content: center;
     flex-direction: row;
     flex-wrap:wrap;
+    flex-direction: row;
+    width:100%;
+    padding-top:9px;
+   
   }
+  
   .card{
     background-color: #fff;
     width: 15em;
-    box-shadow: 10px 5px 25px rgba(1 1 1/ 15%);
+    height:70vh;
     border-radius:13px;
     padding:25px;
-    margin: 15px;
+    margin: 3vh;
+    box-shadow: 10px 5px 25px rgba(1 1 1/ 15%);
   }
+  .title{
+    padding:7px 0;
+    color:black;
+    font-weight:bold;
+    font-size:20px;
+  }
+  
